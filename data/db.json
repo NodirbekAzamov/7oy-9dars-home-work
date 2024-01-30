@@ -1,0 +1,80 @@
+{
+  "products": [
+    {
+      "name": "Phone 15 pro",
+      "price": "$1500",
+      "brands": "apple",
+      "models": "Laptop",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing.",
+      "id": 1
+    },
+    {
+      "name": "Phone 15 pro",
+      "price": "$1500",
+      "brands": "apple",
+      "models": "TV",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, rem libero. Dolorem!",
+      "id": 2
+    },
+    {
+      "name": "svsv",
+      "price": "fchgvjhb",
+      "brands": "apple",
+      "models": "Smartphone",
+      "description": "esvesvrs",
+      "id": 4
+    },
+    {
+      "name": "",
+      "price": "",
+      "brands": "",
+      "models": "",
+      "description": "svrsvrsvrsvsrvs srvrsvbrshv svrv srvrvsrv  vsrvrsvsrv rsv hsrbvsr  v hjsrbvsr rsvsrvrsvr vsbvrvbpreaver \n",
+      "id": 6
+    }
+  ],
+  "brands": [
+    {
+      "id": "1",
+      "title": "asus"
+    },
+    {
+      "id": "2",
+      "title": "apple"
+    },
+    {
+      "id": "3",
+      "title": "hp"
+    },
+    {
+      "title": "Ares",
+      "id": "4"
+    },
+    {
+      "title": "xhvbjnkml;,l.",
+      "id": "P9DWawW"
+    }
+  ],
+  "models": [
+    {
+      "id": "1",
+      "title": "Smartphone"
+    },
+    {
+      "id": "2",
+      "title": "Laptop"
+    },
+    {
+      "id": "3",
+      "title": "TV"
+    },
+    {
+      "id": "4",
+      "title": "Pods"
+    },
+    {
+      "title": "aeavevsssssssssssss",
+      "id": "VuTDLyO"
+    }
+  ]
+}
