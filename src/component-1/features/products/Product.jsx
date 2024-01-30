@@ -41,9 +41,6 @@ export default function Product() {
                     product?.map((item, index) => {
                         return <div className="product_card" key={index}>
                             <h4>Name: <span>{item.name}</span></h4>
-                            {/* <h4>Price: <span> {item.price}</span></h4> */}
-                            {/* <h4>Brand: <span>{item.brands}</span></h4> */}
-                            {/* <h4>Model: <span>{item.models}</span></h4> */}
                             <p className='descr'>Description: <span>{item.description}</span></p>
                             <div className="">
                                 <button onClick={() => ProductEdit(item)} className='btn btn-info'>edit</button>

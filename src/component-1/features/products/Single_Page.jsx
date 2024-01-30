@@ -15,7 +15,7 @@ export default function Single_Page() {
                     <h4>Price: <span>{item.price}</span></h4>
                     <h4>Brand: <span>{item.brands}</span></h4>
                     <h4>Models: <span>{item.models}</span></h4>
-                    <h5>Description</h5> <hr />
+                    <h5>Description:</h5> <hr />
                     <p>{item.description}</p>
                 </div>
                 

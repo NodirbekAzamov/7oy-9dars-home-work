@@ -17,26 +17,26 @@
       "id": 2
     },
     {
-      "name": "svsv",
+      "name": "phone 7+",
       "price": "fchgvjhb",
       "brands": "apple",
-      "models": "Smartphone",
+      "models": "",
       "description": "esvesvrs",
       "id": 4
     },
     {
-      "name": "",
-      "price": "",
-      "brands": "",
-      "models": "",
-      "description": "svrsvrsvrsvsrvs srvrsvbrshv svrv srvrvsrv  vsrvrsvsrv rsv hsrbvsr  v hjsrbvsr rsvsrvrsvr vsbvrvbpreaver \n",
-      "id": 6
+      "name": "svsv",
+      "price": "svsrv",
+      "brands": "apple",
+      "models": "Smartphone",
+      "description": "svrsv",
+      "id": 5
     }
   ],
   "brands": [
     {
-      "id": "1",
-      "title": "asus"
+      "title": "asus",
+      "id": "1"
     },
     {
       "id": "2",
@@ -73,7 +73,7 @@
       "title": "Pods"
     },
     {
-      "title": "aeavevsssssssssssss",
+      "title": "Samsung",
       "id": "VuTDLyO"
     }
   ]
